@@ -32,4 +32,6 @@ print "test" and "test"
 print 1 and 1
 # Not not trick still works.
 print not(not(1 and 1))
+print not not 1
+
 print "Test" or 1

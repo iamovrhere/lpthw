@@ -12,7 +12,7 @@ Starting off with Python 2, [which finally hit End of Life](https://www.python.o
 
 It's aimed at squarely at those without programming experience, as the book starts off with. If you've taken a first year course this will rehash a lot of that, perhaps a little too much. That said, it tends towards being a little hostile/dogmatic in a way that I believe would misguide newcomers to programming.
 
-Whether it be towards Python 3 (for which he released a book, not long after this), towards Dijkstra, and sometimes just programming, and I'm only half way through the book. He seems to have strong opinions held strongly (vs. strong opinions, loosely held with **modesty**).
+Whether it be towards Python 3 (for which he released a book, not long after this), towards debuggers (`printf` debugging will only carry so far), towards Dijkstra, and sometimes just programming. He seems to have strong opinions held strongly (vs. strong opinions, loosely held with **modesty**). It's a mix of good practices with questionable ones, stated as absolutes.
 
 Ignoring the role model aspect, the Python content is probably fine if only outdated, once you ignore the opinions.
 
@@ -20,3 +20,11 @@ Ignoring the role model aspect, the Python content is probably fine if only outd
 
 1. `cd py2`
 1. `python [exercise.py]`
+
+## Interesting Exercises
+ - ex36.py - Create your own game (did it in an hour)
+ - ex37.md - Syntax list
+
+## Style Guide
+
+For my own reference: https://www.python.org/dev/peps/pep-0008/
